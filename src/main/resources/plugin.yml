@@ -1,0 +1,10 @@
+name: RiotPolls
+version: '${project.version}'
+main: me.darkwinged.RiotPolls.Main
+api-version: 1.18
+authors: [ darkwinged ]
+commands:
+  poll:
+    aliases:
+      - polls
+      - survey
